@@ -1,7 +1,7 @@
 # Binary Tree Data Structure
 
 
- 
+ This repository constains a Data Structure assignment that was part of Module 1 (“Launching into Computer Science”) in my MSc in Computer Science at the University of Essex, UK. 
 
 ## Problem Statement:
 
