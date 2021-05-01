@@ -81,7 +81,11 @@ Binary Tree X = ['a', [], []]
  ![print](binary_tree.png)
  
  
- Resources
+ ### Resources
  
- GreeksforGreeks. (Sep, 2020). Binary Tree Data Structure. Available from: https://www.geeksforgeeks.org/binary-tree-data-structure/
+GreeksforGreeks. (Sep, 2020). Binary Tree Data Structure. Available from: https://www.geeksforgeeks.org/binary-tree-data-structure/
+ 
+Jenny's lectures CS/IT NET&JRF. 5.3 Binary Tree Implementation | Data Structures. Available from: https://www.youtube.com/watch?v=6vt3PFRC11E
+ 
+mycodeschool. Data structures: Binary Tree. Available from: https://www.youtube.com/watch?v=H5JubkIy_p8&t=495s
  
