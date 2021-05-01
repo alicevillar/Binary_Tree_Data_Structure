@@ -24,7 +24,7 @@ This can be described as:
 
 Here are the steps to find the correct representation of the tree:  
 
-#### Step 1: insert 'b'
+### Step 1: insert 'b'
 
 Comand => insert_left (x,'b') 
 
@@ -33,7 +33,7 @@ The BinaryTree X is described as ['a', [], []].  Now we have to insert a node 'b
     ['a', ['b', [], []], []]
 
   
-#### Step 2: insert 'c'
+### Step 2: insert 'c'
 
 Comand => insert_right (x,'c')
 
@@ -43,7 +43,7 @@ Now the Binary Tree X with a node 'c' in the right side can be described as:
     ['a', ['b', [], []], ['c', [], []]]
  
  
-#### Step 3: insert 'd'
+### Step 3: insert 'd'
 
 Comand => insert_right(get_right_child(x),'d')
 
@@ -53,7 +53,7 @@ Comand => insert_right(get_right_child(x),'d')
     ['a', ['b', [], []], ['c', [], ['d', [], []]]]
 
 
-#### Step 4: insert 'e'
+### Step 4: insert 'e'
 
 Comand => insert_left(get_right_child(get_right_child(x)),'e')
 
@@ -62,7 +62,7 @@ Now we will insert 'e' as the left child of  'd'. This can be described as:
     ['a', ['b', [], []], ['c', [], ['d', ['e', [], []], []]]]
 
 
-#### Symmary 
+### Symmary 
 
 Here is a summary with all the steps to build the Binary Tree X: 
 
@@ -79,3 +79,9 @@ Binary Tree X = ['a', [], []]
  
  
  ![print](binary_tree.png)
+ 
+ 
+ Resources
+ 
+ GreeksforGreeks. (Sep, 2020). Binary Tree Data Structure. Available from: https://www.geeksforgeeks.org/binary-tree-data-structure/
+ 
