@@ -74,12 +74,19 @@ Binary Tree X = ['a', [], []]
 * Step 4 = ['a', ['b', [], []], ['c', [], ['d', ['e', [], []], []]]]      =>   This is correct representation of the tree. 
 
 
-
- The file main.py contains the Python Algorithm that return with this same representation of the Binary Tree X: 
+The file main.py contains the Python Algorithm that return with this same representation of the Binary Tree X. Here is the output:
  
+    ['a', [], []]
+    ['a', ['b', [], []], []]
+    ['a', ['b', [], []], ['c', [], []]]
+    ['a', ['b', [], []], ['c', [], ['d', [], []]]]
+    ['a', ['b', [], []], ['c', [], ['d', ['e', [], []], []]]]
+
+### Graphic representation 
+
+Here is a visual representation of the Binary Tree X after all the insertions: 
  
  ![print](binary_tree.png)
- 
  
  ### Resources
  
