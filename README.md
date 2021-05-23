@@ -14,6 +14,9 @@ Given the statement below, create a binary tree.
     insert_left(get_right_child(get_right_child(x)),'e')
 
 
+### => [Solution](https://github.com/alicevillar/Binary_Tree_Data_Structure/blob/main/main.py)
+
+### Approach:
 
 Here we have a Binary Tree called X. In this Binary Tree, the root node is ('a'), which has two sub nodes: [],[] - left and right, respectively. 
 
